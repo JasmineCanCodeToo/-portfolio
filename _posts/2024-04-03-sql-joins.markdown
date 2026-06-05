@@ -6,7 +6,7 @@ img: sql.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
-project-url: https://docs.google.com/document/d/170lnDMPSKe4tQCQizA22Q-fV9KSV2XTB/edit?usp=sharing&ouid=101681790437552339862&rtpof=true&sd=true 
+project-url: "https://docs.google.com/document/d/17OlnDMPSKe4tQCQizA22Q-fV9KSV2XTB/edit?usp=sharing"
 
 description:  Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
 ---
