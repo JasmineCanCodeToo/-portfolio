@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Jasmine Sullivan
-  location: NORTHEAST OHIO
+  location: LOCATION
   social: Connect With Me
   credits: Professional Development
 
@@ -50,7 +50,7 @@ email:
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Austintown, Ohio
+  - line: Northeast, Ohio
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
