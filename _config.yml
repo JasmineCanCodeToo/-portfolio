@@ -1,5 +1,5 @@
 # Site settings
-title: Jasmine Sullivan
+title: Jasmine Sullivan's Portfolio
 email: jasminealexussullivan@gmail.com
 url: https://JasmineCanCodeToo.github.io/-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Jasmine Sullivan
-  location: Ohio, USA
+  location: NORTHEAST OHIO
   social: Connect With Me
-  credits: Portfolio
+  credits: Professional Development
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
