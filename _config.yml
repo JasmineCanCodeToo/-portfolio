@@ -1,6 +1,6 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
+title: Jasmine Sullivan
+email: jasminealexussullivan@gmail.com
 url: https://JasmineCanCodeToo.github.io/-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Jasmine Sullivan
-  location: Location
-  social: Around the Web
-  credits: Credits
+  location: Ohio, USA
+  social: Connect With Me
+  credits: Portfolio
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
