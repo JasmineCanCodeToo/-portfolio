@@ -40,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: www.linkedin.com/in/jasminealexussullivan
+  url:https://www.linkedin.com/in/jasminealexussullivan
   - title: github
-    url: https://github.com/JasmineCanCodeToo
+    url:https://github.com/JasmineCanCodeToo
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
